@@ -15,7 +15,7 @@ Installation:
 Usage:
 
 ``` python
-from withings-devices import WithingsDevices
+from withingsdevices import WithingsDevices
 
 my_devices = WithingsDevices('YOUR_EMAIL', 'YOUR_PASSWORD')
 

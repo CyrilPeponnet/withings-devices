@@ -9,7 +9,7 @@ setup(
     author_email='cyril@peponnet.fr',
     url="https://github.com/CyrilPeponnet/withings-devices",
     license = "GPLv3 License",
-    packages = ['withings-devices'],
+    packages = ['withingsdevices'],
     install_requires = ['requests'],
     keywords="withings-devices",
     zip_safe = True
